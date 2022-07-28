@@ -1,0 +1,2 @@
+say "test. reloading"
+reload

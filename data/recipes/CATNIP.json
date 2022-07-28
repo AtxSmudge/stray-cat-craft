@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "nCn",
+        "nCn",
+        "nCn"
+    ],
+    "key": {
+        "n": {
+            "item": "minecraft:salmon"
+        },
+        "C": {
+            "item": "minecraft:cod"
+        }
+    },
+    "result": {
+        "item": "minecraft:potato",
+        "count": 6
+    }
+}
